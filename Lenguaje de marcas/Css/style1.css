@@ -1,0 +1,38 @@
+
+            body {
+                background-color: powderblue;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                color: rgb(224, 32, 176);
+                text-align: center;
+            }
+
+            h1 {
+                background-color: rgb(60, 255, 0);
+            }
+
+            p {
+                background-color: rgb(171, 206, 171);
+                color:black;
+                text-align: left;
+            }
+            .colomar{
+                background-color: darksalmon;
+                color:darkgreen;
+                text-align: center;
+            }
+            table{
+                background-color: rgb(226, 43, 128);
+                border-style:dashed;
+                border-width: 6px;
+                border-color: black;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-size: 25px;
+                text-align: center;
+                width: 100%;                
+            }
+            td{
+                border-style:solid;
+                border-color: whitesmoke;
+                color:aliceblue;                           
+            }
+            
